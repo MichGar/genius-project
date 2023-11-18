@@ -1,1 +1,1 @@
-# 2. genius-project
+# genius-project
